@@ -1,6 +1,6 @@
 ### Olá, eu sou o Pedro 👨‍💻
 
-**Desenvolvedor FullStack & Entusiasta de Deep Learning**
+**Desenvolvedor FullStack**
 
 Sou um desenvolvedor apaixonado por criar soluções, com experiência construindo desde APIs completas em Java até interfaces web interativas. Tenho um forte interesse em banco de dados e inteligência artificial, especialmente na área de visão computacional. Recentemente, venho focando em projetos back-end. 
 
