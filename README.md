@@ -27,6 +27,6 @@ Nesta seção, mostramos as tecnologias que você domina. O link abaixo gera os 
 
 ### 🔭 Projetos em Destaque
 
-* **LuxAuto:** Desenvolvimento de um site para uma marca de carros de luxo, incluindo simulador de financiamento e alternância de temas (Light/Dark).
+* **LuxAuto:** Desenvolvimento de um site, incluindo simulador de financiamento.
 * **Segmentação com U-Net:** Projeto de pesquisa aplicando deep learning e a arquitetura U-Net para segmentação de folhas em fundos complexos.
 * **Carrinho API:** Construção de uma API em Java focada na gestão de produtos e serviços, com tratamento avançado de exceções.
