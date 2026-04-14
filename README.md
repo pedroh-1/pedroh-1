@@ -8,10 +8,8 @@ Sou um desenvolvedor apaixonado por criar soluções, com experiência construin
 
 ### 🚀 Linguagens e Tecnologias
 
-Nesta seção, mostramos as tecnologias que você domina. O link abaixo gera os ícones automaticamente.
-
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,firebase,idea" alt="Minhas Habilidades" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,postgresql,firebase,idea" alt="Minhas Habilidades" />
 </div>
 
 ---
@@ -19,10 +17,9 @@ Nesta seção, mostramos as tecnologias que você domina. O link abaixo gera os 
 ### 📊 Estatísticas
 
 <div align="left">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroh-1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh-1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=pedroh-1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs?username=pedroh-1&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
-
 ---
 
 ### 🔭 Projetos em Destaque
