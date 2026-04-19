@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por criar soluções, com experiência construin
 ### 🚀 Linguagens e Tecnologias
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,postgresql,firebase,idea" alt="Minhas Habilidades" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,postgresql,firebase,idea,opencv,pytorch,tensorflow" alt="Minhas Habilidades" />
 </div>
 
 ---
