@@ -27,3 +27,4 @@ Sou um desenvolvedor apaixonado por criar soluções, com experiência construin
 * **LuxAuto:** Desenvolvimento de um site, incluindo simulador de financiamento.
 * **Segmentação com U-Net:** Projeto de pesquisa aplicando deep learning e a arquitetura U-Net para segmentação de folhas em fundos complexos.
 * **Carrinho API:** Construção de uma API em Java focada na gestão de produtos e serviços, com tratamento avançado de exceções.
+* **Gaspo API:** Construção de uma API em Java focada no agendamento de consultas online.
