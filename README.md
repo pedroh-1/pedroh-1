@@ -29,3 +29,4 @@ Sou um desenvolvedor apaixonado por criar soluções, com experiência construin
 * **Carrinho API:** Construção de uma API em Java focada na gestão de produtos e serviços, com tratamento avançado de exceções.
 * **Gaspo API:** Construção de uma API em Java focada no agendamento de consultas online.
 * **ClickDrive API**
+* **Segmentação de DeepLabv3+**
