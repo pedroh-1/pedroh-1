@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por criar soluções, com experiência construin
 ### 📊 Estatísticas
 
 <div align="left">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=pedroh-1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=pedroh-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="Estatísticas do GitHub" />
   <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs?username=pedroh-1&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 ---
